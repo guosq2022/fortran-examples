@@ -11,7 +11,7 @@
     real(sp):: x,sinx,t,y
     write(*,*) '************************'
     write(*,*) 'input x and precision:'
-    read(*,*),x,t
+    read(*,*)x,t
     i=1
     x=x*PI/180.
     sinx=x
