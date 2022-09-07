@@ -2,6 +2,8 @@
 
 ## usage
 
+这里是从wsl端修改S
+
 ### download
 
 命令行中输入
